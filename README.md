@@ -1,4 +1,4 @@
- Simple Rock, Paper, Scissors using Python CLI
+## Simple Rock, Paper, Scissors using Python CLI
 
 A simple interactive command-line implementation of the classic Rock, Paper, Scissors game built with Python.
 
